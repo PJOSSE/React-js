@@ -1,2 +1,2 @@
 # Bricavrac
-Site React pour apprentissage de réact
+Site React pour apprentissage de React
