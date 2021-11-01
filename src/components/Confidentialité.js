@@ -9,7 +9,9 @@ function Confidentialité() {
             <h1 className='bav-title'>{title}</h1>
             
             <h2>Qui sommes-nous ?</h2>
-            <p>L’adresse de notre site est : https://bricavrac.com.</p>
+            <p>Nous sommes une entreprise nouvellement crée et basée à VANDOEUVRE-LES-NANCY (près de Nancy). Nous proposons un service digital à destination d'entreprises intéressées par le vrac, pouvant s'adapter aux besoins et aux spécificités de chacune. La présidente est MME Elise REY DU BOISSIEU, les deux directeurs généraux, MME Flore LEENHARDT	
+et M Samy NASTUZZI. Notre site est pour l'instant un site vitrine destiné à la présentation de notre entreprise et à la prospection de clients.
+L’adresse de notre site est : https://bricavrac.com.</p>
 
             <h2>Commentaires</h2>
             <p>Quand vous laissez un commentaire sur notre site, les données inscrites dans le formulaire de commentaire, mais aussi votre adresse IP et l’agent utilisateur de votre navigateur sont collectés pour nous aider à la détection des commentaires indésirables.</p>
