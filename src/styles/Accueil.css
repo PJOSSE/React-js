@@ -18,11 +18,42 @@
     width: 50%; 
 }
 
-a
-{
-text-decoration : none;
+.bav-eco{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%; 
 }
 
-ul>li {
-    text-align: start;
+ul>a>li{
+    text-decoration: none;
+    color: rgb(82, 190, 49);
+    vertical-align: middle;
+}
+ul>a{
+    text-decoration: none;
+}
+
+ul>a:hover{
+    font-weight: bold;
+}
+@media screen and (max-width : 800px){
+    ul{
+        flex-direction: column;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+
+    }
+
+    ul >a> li{
+        cursor: pointer;
+        border: 1px solid;
+        margin: 0px;
+        padding: 0px;
+    }
 }

@@ -15,7 +15,7 @@ function Raison() {
             nature</strong>, c'est-à-dire dans les poissons que nous consommons, 
             dans l'air, ou dans l'eau potable (microplastique).</p>
 
-            <img src={eco} alt='eco' className='bav-eco' height='50%' width='50%'/>
+            <img src={eco} alt='eco' className='bav-eco'/>
 
             <p>En 2021, l’emballage représente un chiffre d’affaires de 18,3 milliards d’euros. 
             38 %, soit <strong>6,9 milliards d’euros pour les emballages plastiques, ressource finie</strong> qui aura son pic d'ici quelques années.
