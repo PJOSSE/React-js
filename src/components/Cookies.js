@@ -9,47 +9,47 @@ function Cookies() {
             <h1 className='bav-title'>{title}</h1>
                 
                 <h2>About this cookie policy</h2>
-                <p>This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to control the cookie preferences. For further information on how we use, store, and keep your personal data secure, see our Privacy Policy.</p>
+                <p>Cette page explique ce que sont les cookies, comment nous les utilisons, les types de cookies que nous utilisons, c'est-à-dire les informations que nous collectons à l'aide de cookies, comment ces informations sont utilisées et comment contrôler les préférences en matière de cookies. Pour plus d'informations sur la façon dont nous utilisons, stockons et protégeons vos données personnelles, consultez notre Politique de confidentialité.</p>
 
-                <p>You can at any time change or withdraw your consent from the Cookie Declaration on our website Learn more about who we are, how you can contact us, and how we process personal data in our Privacy Policy. Your consent applies to the following domains: bricavrac.com.</p>
+                <p>Vous pouvez à tout moment modifier ou retirer votre consentement de la déclaration relative aux cookies sur notre site Web. Pour en savoir plus sur qui nous sommes, comment nous contacter et comment sont traités vos données personnelles, les informations sont présentes sur la page politique de confidentialité. Votre consentement s'applique au domaine suivant : bricavrac.com.</p>
 
                 <p>Votre état actuel : Consentement accepté. Gérez votre consentement.</p>
 
-                <h2>What are cookies ?</h2>
-                <p>Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make it more secure, provide better user experience, and understand how the website performs and to analyze what works and where it needs improvement.</p>
+                <h2>Que sont les cookies ?</h2>
+                <p>Les cookies sont de petits fichiers texte qui sont utilisés pour stocker de petites informations. Ils sont stockés sur votre appareil lorsque le site Web est chargé sur votre navigateur. Ces cookies nous aident à faire fonctionner correctement le site Web, à le rendre plus sûr, à offrir une meilleure expérience utilisateur, à comprendre les performances du site Web et à analyser ce qui fonctionne et les points à améliorer.</p>
 
-                <h2>How do we use cookies ?</h2>
-                <p>As most of the online services, our website uses first-party and third-party cookies for several purposes. First-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.</p>
+                <h2>Comment utilisons-nous les cookies ?</h2>
+                <p>Comme la plupart des services en ligne, notre site Web utilise des cookies propriétaires et tiers à plusieurs fins. Les cookies internes sont principalement nécessaires au bon fonctionnement du site Web et sont anonymisés.</p>
 
-                <p>The third-party cookies used on our website are mainly for understanding how the website performs, how you interact with our website, keeping our services secure, providing advertisements that are relevant to you, and all in all providing you with a better and improved user experience and help speed up your future interactions with our website.</p>
+                <p>Les cookies tiers utilisés sur notre site Web servent principalement à comprendre le fonctionnement du site Web, la façon dont vous interagissez avec notre site Web, la sécurité de nos services, la fourniture de publicités pertinentes pour vous et, dans l'ensemble, servent à vous permettre une meilleure expérience sur le site ainsi qu'à accélérer vos futures interactions avec notre site Web.</p>
 
-                <h2>What types of cookies do we use ?</h2>
-                <p>Essential: Some cookies are essential for you to be able to experience the full functionality of our site. They allow us to maintain user sessions and prevent any security threats. They do not collect or store any personal information. For example, these cookies allow you to log-in to your account and add products to your basket, and checkout securely.</p>
+                <h2>Quels types de cookies utilisons-nous ?</h2>
+                <p>Essentiel : Certains cookies sont essentiels pour que vous puissiez profiter de toutes les fonctionnalités de notre site. Ils nous permettent de maintenir les sessions utilisateur et de prévenir toute menace de sécurité. Ils ne collectent ni ne stockent aucune information personnelle. Par exemple, ces cookies vous permettent de vous connecter à votre compte et d'ajouter des produits à votre panier, et de passer à la caisse en toute sécurité.</p>
 
-                <p>Statistics: These cookies store information like the number of visitors to the website, the number of unique visitors, which pages of the website have been visited, the source of the visit, etc. These data help us understand and analyze how well the website performs and where it needs improvement.</p>
+                <p>Statistiques : Ces cookies stockent des informations telles que le nombre de visiteurs sur le site Web, le nombre de visiteurs uniques, les pages du site Web qui ont été visitées, la source de la visite, etc. Ces données nous aident à comprendre et à analyser les performances du site Web. et où il a besoin d'être amélioré.</p>
 
-                <p>Marketing: Our website displays advertisements. These cookies are used to personalize the advertisements that we show to you so that they are meaningful to you. These cookies also help us keep track of the efficiency of these ad campaigns. The information stored in these cookies may also be used by the third-party ad providers to show you ads on other websites on the browser as well.</p>
+                <p>Marketing : Notre site Web affiche des publicités. Ces cookies sont utilisés pour personnaliser les publicités que nous vous montrons afin qu'elles soient significatives pour vous. Ces cookies nous aident également à suivre l'efficacité de ces campagnes publicitaires. Les informations stockées dans ces cookies peuvent également être utilisées par les fournisseurs de publicité tiers pour vous montrer également des publicités sur d'autres sites Web sur le navigateur.</p>
 
-                <p>Functional: TThese are the cookies that help certain non-essential functionalities on our website. These functionalities include embedding content like videos or sharing content of the website on social media platforms.</p>
+                <p>Fonctionnel : Il s'agit des cookies qui aident certaines fonctionnalités non essentielles de notre site Web. Ces fonctionnalités incluent l'intégration de contenu comme des vidéos ou le partage de contenu du site Web sur les plateformes de médias sociaux.</p>
 
-                <p>Preferences: These cookies help us store your settings and browsing preferences like language preferences so that you have a better and efficient experience on future visits to the website.</p>
+                <p>Préférences : Ces cookies nous aident à stocker vos paramètres et vos préférences de navigation, comme les préférences de langue, afin que vous ayez une expérience meilleure et efficace lors de vos futures visites sur le site Web.</p>
 
-                <p>The below list details the cookies used in our website.</p>
+                <p>La liste ci-dessous détaille les cookies utilisés sur notre site Web.</p>
 
                 <ul>
-                    <h3>COOKIE DESCRIPTION</h3>
-                    <li>cookielawinfo-checkbox-analytics : This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</li>
-                    <li>cookielawinfo-checkbox-functional :	The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</li>
-                    <li>cookielawinfo-checkbox-necessary : This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</li>
-                    <li>cookielawinfo-checkbox-others :	This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</li>
-                    <li>cookielawinfo-checkbox-performance : This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</li>
-                    <li>viewed_cookie_policy : The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</li>
+                    <h3>Description des cookies</h3>
+                    <li>cookielawinfo-checkbox-analytics : Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Analytics".</li>
+                    <li>cookielawinfo-checkbox-functional :	Le cookie est défini par le consentement des cookies GDPR pour enregistrer le consentement de l'utilisateur pour les cookies dans la catégorie « Fonctionnel »</li>
+                    <li>cookielawinfo-checkbox-necessary : Ce cookie est défini par le plugin GDPR Cookie Consent. Les cookies sont utilisés pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Nécessaire".</li>
+                    <li>cookielawinfo-checkbox-others :	Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Autre".</li>
+                    <li>cookielawinfo-checkbox-performance : Ce cookie est défini par le plugin GDPR Cookie Consent. Le cookie est utilisé pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Performance".</li>
+                    <li>viewed_cookie_policy : Le cookie est défini par le plugin GDPR Cookie Consent et est utilisé pour stocker si l'utilisateur a consenti ou non à l'utilisation de cookies. Il ne stocke aucune donnée personnelle.</li>
                 </ul>
                               
-                <h2>How can I control the cookie preferences ?</h2>
-                <p>Should you decide to change your preferences later through your browsing session, you can click on the « Privacy & Cookie Policy » tab on your screen. This will display the consent notice again enabling you to change your preferences or withdraw your consent entirely.</p>
+                <h2>Comment contrôler les préférences en matière de cookies ?</h2>
+                <p>Si vous décidez de modifier vos préférences ultérieurement au cours de votre session de navigation, vous pouvez cliquer sur l'onglet « Privacy & Cookie Policy » de votre écran. Cela affichera à nouveau l'avis de consentement vous permettant de modifier vos préférences ou de retirer complètement votre consentement.</p>
 
-                <p>In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. To find out more about how to manage and delete cookies, visit wikipedia.org, www.allaboutcookies.org.</p>
+                <p>En plus de cela, différents navigateurs proposent différentes méthodes pour bloquer et supprimer les cookies utilisés par les sites Web. Vous pouvez modifier les paramètres de votre navigateur pour bloquer/supprimer les cookies. Pour en savoir plus sur la gestion et la suppression des cookies, visitez wikipedia.org, www.allaboutcookies.org.</p>
             <img src={logo} alt='Logo' className='bav-logo'/>
         </div>
     )
