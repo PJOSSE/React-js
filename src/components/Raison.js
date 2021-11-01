@@ -13,7 +13,7 @@ function Raison() {
             <p>Aujourd'hui, l'emballage non nécessaire impacte nos vies.</p>
             <p>Quelques chiffres : <strong>En 2016, selon WWF, un tiers des déchets plastiques générés dans le monde, soit 100 millions de tonnes, ont terminé leur course dans la
             nature</strong>, c'est-à-dire dans les poissons que nous consommons, 
-            dans l'air, ou dans l'eau potable (microplastique).</p>
+            dans l'air ou dans l'eau potable (microplastique).</p>
 
             <img src={eco} alt='eco' className='bav-eco'/>
 
