@@ -41,7 +41,7 @@ class Connexion extends React.Component {
         <label> Mot de passe : <input type="password" value={this.state.password} onChange={this.handleChangePassword} />
         </label>
         <input type="submit" value="Envoyer" />
-        <p> Si c'est votre première visite, <a target="_blank" rel="noreferrer" href="/Connexion/Test">cette page là est la bonne</a></p>
+        <p> Si c'est votre première visite, <a target="_blank" rel="noreferrer" href="/Connexion/Test">cette page-là est la bonne</a></p>
         <p> Quelque soit votre choix, à bientôt sur notre site :)</p>
         <img src={logo} alt='Logo' className='bav-logo'/>
       </form>
