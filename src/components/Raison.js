@@ -34,7 +34,7 @@ function Raison() {
 
             <h2>Sources</h2>
             <p>Sur le chiffre d'affaire des emballages, de TIZIANO POLITO, publié le 04/02/2021 chez Emballage magazine, <a target="_blank" rel="noreferrer" href="https://www.emballagesmagazine.com/tous-secteurs/l-emballage-represente-un-chiffre-d-affaires-de-18-3-milliards-d-euros.60808"> "L’emballage représente un chiffre d’affaires de 18,3 milliards d’euros"</a>.</p>
-            <p>Sur le pic de pétrole, le magazine Reporterre, article de Hervé Kempf de HERVE KEMPF, publié le 26/06/2021, <a target="_blank" rel="noreferrer" href="https://reporterre.net/L-Europe-a-dix-ans-pour-se-preparer-au-pic-de-petrole"> "L’Europe a dix ans pour se préparer au pic de pétrole"</a>.</p>
+            <p>Sur le pic de pétrole, le magazine Reporterre, article de HERVE KEMPF, publié le 26/06/2021, <a target="_blank" rel="noreferrer" href="https://reporterre.net/L-Europe-a-dix-ans-pour-se-preparer-au-pic-de-petrole"> "L’Europe a dix ans pour se préparer au pic de pétrole"</a>.</p>
            
             <img src={logo} alt='Logo' className='bav-logo'/>
         </div>
